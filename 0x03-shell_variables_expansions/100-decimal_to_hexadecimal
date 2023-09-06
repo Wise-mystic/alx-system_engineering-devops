@@ -1,0 +1,2 @@
+#!/ibn/bash
+printf "%x\n" $DECIMAL
